@@ -1,0 +1,26 @@
+D:\Github\WF-Pokedex\WF_Pokedex\PokeApi\bin\Debug\PokeApi.dll.config
+D:\Github\WF-Pokedex\WF_Pokedex\PokeApi\bin\Debug\PokeApi.dll
+D:\Github\WF-Pokedex\WF_Pokedex\PokeApi\bin\Debug\PokeApi.pdb
+D:\Github\WF-Pokedex\WF_Pokedex\PokeApi\bin\Debug\Newtonsoft.Json.dll
+D:\Github\WF-Pokedex\WF_Pokedex\PokeApi\bin\Debug\StringExtensions.dll
+D:\Github\WF-Pokedex\WF_Pokedex\PokeApi\bin\Debug\System.Net.Http.Formatting.dll
+D:\Github\WF-Pokedex\WF_Pokedex\PokeApi\bin\Debug\StringExtensions.pdb
+D:\Github\WF-Pokedex\WF_Pokedex\PokeApi\bin\Debug\Newtonsoft.Json.xml
+D:\Github\WF-Pokedex\WF_Pokedex\PokeApi\bin\Debug\System.Net.Http.Formatting.xml
+D:\Github\WF-Pokedex\WF_Pokedex\PokeApi\obj\Debug\PokeApi.csprojAssemblyReference.cache
+D:\Github\WF-Pokedex\WF_Pokedex\PokeApi\obj\Debug\PokeApi.csproj.CoreCompileInputs.cache
+D:\Github\WF-Pokedex\WF_Pokedex\PokeApi\obj\Debug\PokeApi.csproj.CopyComplete
+D:\Github\WF-Pokedex\WF_Pokedex\PokeApi\obj\Debug\PokeApi.dll
+D:\Github\WF-Pokedex\WF_Pokedex\PokeApi\obj\Debug\PokeApi.pdb
+D:\NET Projects\PokeApi\bin\Debug\PokeApi.dll.config
+D:\NET Projects\PokeApi\bin\Debug\PokeApi.dll
+D:\NET Projects\PokeApi\bin\Debug\PokeApi.pdb
+D:\NET Projects\PokeApi\bin\Debug\StringExtensions.dll
+D:\NET Projects\PokeApi\bin\Debug\StringExtensions.pdb
+D:\NET Projects\PokeApi\bin\Debug\Newtonsoft.Json.xml
+D:\NET Projects\PokeApi\bin\Debug\System.Net.Http.Formatting.xml
+D:\NET Projects\PokeApi\obj\Debug\PokeApi.csprojAssemblyReference.cache
+D:\NET Projects\PokeApi\obj\Debug\PokeApi.csproj.CoreCompileInputs.cache
+D:\NET Projects\PokeApi\obj\Debug\PokeApi.csproj.CopyComplete
+D:\NET Projects\PokeApi\obj\Debug\PokeApi.dll
+D:\NET Projects\PokeApi\obj\Debug\PokeApi.pdb
