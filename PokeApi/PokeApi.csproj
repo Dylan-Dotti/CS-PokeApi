@@ -62,7 +62,7 @@
     <Compile Include="SpriteLoader.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Github\WF-Pokedex\WF_Pokedex\StringExtensions\StringExtensions.csproj">
+    <ProjectReference Include="..\..\WF-Pokedex\WF_Pokedex\StringExtensions\StringExtensions.csproj">
       <Project>{999d14e0-3dba-4eb1-897f-194a612fe6d1}</Project>
       <Name>StringExtensions</Name>
     </ProjectReference>
